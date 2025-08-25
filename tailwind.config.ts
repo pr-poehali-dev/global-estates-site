@@ -28,6 +28,11 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+				gold: {
+					DEFAULT: '#D4AF37',
+					light: '#E6C866',
+					dark: '#B8941F'
+				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
