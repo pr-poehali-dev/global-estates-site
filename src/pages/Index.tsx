@@ -138,15 +138,15 @@ const Index = () => {
               size="lg" 
               className="bg-gold hover:bg-gold-dark text-black font-semibold px-8 py-4 text-lg"
             >
-              Получить каталог ликвидных объектов
+              Получить Топ 10 ликвидных апартаментов в ОАЭ
             </Button>
             
-            <Card className="bg-white/10 backdrop-blur-sm border-gold/30 p-6 max-w-md">
+            <Card className="bg-white border-gold/30 p-6 max-w-md">
               <CardContent className="p-0">
                 <p className="text-gold font-semibold mb-2">
                   Персональная подборка объектов
                 </p>
-                <p className="text-sm mb-4 opacity-90">
+                <p className="text-sm mb-4 font-bold text-black">
                   Ответьте на 4 вопроса и получите персональную подборку объектов
                 </p>
                 <Button 
